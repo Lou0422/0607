@@ -1,0 +1,53 @@
+@charset "UTF-8";
+.p1 {
+    height: 300px;
+    background-image: url(https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-position: center center;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-size: cover;
+}
+.p2 {
+    height: 300px;
+    background-image: url(https://images.unsplash.com/photo-1571210862729-78a52d3779a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-position: center center;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-size: cover;
+}
+.p3   {
+    height: 300px;
+    background-image: url(https://images.unsplash.com/photo-1610692572515-9291cf3a41d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+    background-position: center center;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-size: cover;
+}
+.title {
+    background-color: #EBD1BC;
+    height: 980px;
+}
+.p4   {
+    height: 300px;
+    background-image: url(https://images.unsplash.com/photo-1514315384763-ba401779410f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=383&q=80);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p5 {
+    height: 300px;
+    background-image: url(https://images.unsplash.com/photo-1504203772830-87fba72385ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p6 {
+    height: 600px;
+    background-image: url(https://images.unsplash.com/photo-1473448912268-2022ce9509d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=841&q=80);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
